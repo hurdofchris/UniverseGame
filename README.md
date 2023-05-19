@@ -14,4 +14,4 @@ There are three main sections of the repository:
     
 3. Implementation
 
-    This is where developers can submit code to fulfill items from the roadmap. Documentation of the feature details and how the code fulfills it should be in code comments.
+    This is where developers can submit code to fulfill items from the roadmap. Documentation of the feature details and how the code fulfills it should be in code comments. Development will currently proceed using trunk-based development.
