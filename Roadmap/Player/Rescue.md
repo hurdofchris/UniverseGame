@@ -1,4 +1,28 @@
-Rescue is a mechanic that helps the player return from situations where they are stuck. Players have to pay in-game currency to be rescued and the price varies by several factors:
+# Rescue
+Rescue is a mechanic that helps the player return from situations where they are stuck. Players have to pay in-game currency to be rescued and the price varies by several factors.
+
+## Player Interaction
+
+### Vessels
+Most vessels come equipped with a transponder that specifically interacts with Rescue Warp Communications. The vessel's Universal Positioning System will also have charts of Rescue Space Zones. These vessels will usually have cockpit lights equipped to inform the pilot of their position inside (or outside) of rescue space.
+#### HUD Rescue Indicator
+
+| Modulation | Meaning |
+| --- | --- |
+| Solid | Vessel is in Regulated Rescue Space. |
+| Slow Sine Wave | Vessel is in Voluntary Rescue Space. |
+| Off | Vessel is outside Rescue Space. |
+
+| Color | Meaning |
+| --- | --- |
+| Red | Rescue requires entering hostile territory. |
+| Yellow | Rescue requires entering hostile territory and negotiating environmental hazards. |
+| Green | Rescue requires negotiating environmental hazards. |
+| Cyan | Rescue requires entering uncharted territory and negotiating environmental hazards. |
+| Blue | Rescue requires entering uncharted territory. |
+| Magenta | Rescue requires entering hostile, uncharted territory. |
+
+## Zones
 
 ### Regulated Rescue Space (RRS)
 ###### Within this space, rescue is a regulated industry that has set costs and standards for risk and effort.
@@ -27,3 +51,6 @@ A high priority mission is the same as a standard mission but with increased pri
 An emergency mission is dispatched immediately upon receiving communication from the stranded vessel taking the most optimal route for safety and speed. The stranded vessel is taken to a safe rally point where the rest of the mission can be assessed. The rally point will be equipped with a mobile medical vessel, extra security, and failsafe comms.
 ##### Critical Emergency
 These missions are on a short time constraint, meaning the vessel and/or occupants need the quickest attention possible. They supercede every other priority from or after dispatch except Emergency priority, which only takes priority after dispatch. These missions will disregard any cautions they can without significantly jeopardizing the success of the mission. Like emergency missions the stranded vessel is taken to a safe rally point where the rest of the mission can be assessed. The rally point will be equipped with a mobile medical vessel, extra security, and failsafe comms.
+
+### Voluntary Rescue Space (VRS)
+###### Within this space, rescue is handled on a volunteer basis. Travelers are warned to travel with utmost caution as voluntary rescue could take a long time or sometimes may never come. Pricing for rescue is negotiated between the parties involved and does not fall under RRS standards.
