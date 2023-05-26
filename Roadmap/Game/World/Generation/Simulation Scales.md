@@ -5,8 +5,10 @@ Galaxy Cluster
 
 Galaxy
 
-Star Cluster
+Star Cluster / Nebula
 
 Star System
 
-Celestial Body
+Celestial Body / Belt System
+
+Ring System
