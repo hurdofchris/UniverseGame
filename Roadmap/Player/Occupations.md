@@ -6,6 +6,7 @@
   * Different genetic coding structures
   * Life that doesn't use DNA
   * Silicon-based organisms
+* Bounty Hunting
 * Communications
 * Construction
   * Buildings
