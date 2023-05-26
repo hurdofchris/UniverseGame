@@ -1,35 +1,38 @@
 # Occupations
 
 ## Official
-* Art
-* Astronomy
+* Art (Community Content)
+* Astronomy (Catalog)
   * Giant Space Telescopes/Observatories
-* Biology
+* Biology (Catalog)
   * Studying/Documenting Newly Discovered Creatures
   * Different genetic coding structures
   * Life that doesn't use DNA
   * Silicon-based organisms
-* Bounty Hunting
+* Bounty Hunting (Min-Max, Solo, Shooter, Quests)
 * Communications
 * Construction
+  * Architecture (Community Content)
   * Buildings
   * Space Stations
 * Exploration
-  * Cartography
-  * Colonization
-  * Route Mapping
+  * Cartography (Catalog)
+  * Colonization (Survival)
+  * Route Mapping (Catalog)
 * Farming
-* Government
-* Law Enforcement
-* Manufacturing
-  * Starships
+* Government (Real-Time Strategy)
+* Law Enforcement (Min-Max, Multiplayer, Shooter, Quests)
+* Manufacturing (Crafting)
+  * Design (Community Content)
   * Engines
+  * Starships
   * Warp Drives
+  * Weapons
 * Medicine
-* Mining
-* Rescue
+* Mining (Grind)
+* Rescue (Quests)
 * Security
-* Trading
+* Trading (Min-Max)
 
 ## Unofficial
 * Assassin
