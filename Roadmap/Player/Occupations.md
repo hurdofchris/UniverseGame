@@ -1,3 +1,6 @@
+# Occupations
+
+## Official
 * Art
 * Astronomy
   * Giant Space Telescopes/Observatories
@@ -27,3 +30,7 @@
 * Rescue
 * Security
 * Trading
+
+## Unofficial
+* Assassin
+* Pirate
