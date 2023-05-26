@@ -9,4 +9,4 @@ Star Cluster
 
 Star System
 
-Planet
+Celestial Body
