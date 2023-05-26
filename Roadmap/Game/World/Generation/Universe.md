@@ -1,5 +1,5 @@
 # Universe
-Generate a distribution of masses consistent with Baryon Acoustic Oscillaions after the Expansion Period of the Big Bang.
+Generate a distribution of masses consistent with Baryon Acoustic Oscillaions after the Expansion Period of the Big Bang. The masses will be on the scale of galactic filament attractors.
 
 For the calculated universe radius, take the longest distance that a player could travel at full warp with a straight route if the game simulated it 24/7 for 100 real years and multiply it by 5.
 
