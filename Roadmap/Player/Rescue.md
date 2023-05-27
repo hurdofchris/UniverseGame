@@ -15,12 +15,15 @@ Most vessels come equipped with a transponder that specifically interacts with R
 
 | Color | Meaning |
 | --- | --- |
-| Red | Rescue requires entering hostile territory. |
-| Yellow | Rescue requires entering hostile territory and negotiating environmental hazards. |
-| Green | Rescue requires negotiating environmental hazards. |
-| Cyan | Rescue requires entering uncharted territory and negotiating environmental hazards. |
-| Blue | Rescue requires entering uncharted territory. |
-| Magenta | Rescue requires entering hostile, uncharted territory. |
+| Red | Rescue requires entering hostile, uncharted territory. |
+| Yellow | Rescue requires entering uncharted territory. |
+| Green | Rescue requires entering uncharted territory and negotiating environmental hazards. |
+| Cyan | Rescue requires negotiating environmental hazards. |
+| Blue | Rescue requires entering hostile territory and negotiating environmental hazards. |
+| Magenta | Rescue requires entering hostile territory. |
+| Color Cycle | Rescue requires entering hostile, uncharted territory and negotiating environmental hazards. |
+| White | Rescue isn't hazardous. |
+
 
 ## Zones
 
