@@ -1,37 +1,55 @@
 # Occupations
 
 ## Official
-* Art (Community Content)
-* Astronomy (Catalog)
-  * Giant Space Telescopes/Observatories
-* Biology (Catalog)
-  * Studying/Documenting Newly Discovered Creatures
-  * Different genetic coding structures
-  * Life that doesn't use DNA
-  * Silicon-based organisms
-* Bounty Hunting (Min-Max, Solo, Shooter, Quests)
+
 * Communications
-* Construction
-  * Architecture (Community Content)
-  * Buildings
-  * Space Stations
+* Building
+  * Construction
+    * Buildings
+    * Space Stations
+* Combat
+  * Bounty Hunter (Min-Max, Solo, Shooter, Quests)
+  * Law Enforcement (Min-Max, Multiplayer, Shooter, Quests)
+  * Security
+* Crafting
+  * Manufacturing
+    * Design (Community Content)
+    * Engines
+    * Starships
+    * Warp Drives
+    * Weapons
+  * Mining
+* Design (Community Content)
+  * Architecture (Buildings)
+  * Megastructure Planner (Space Stations)
+  * Starship Designer (Starships)
+  * Weapons Designer (Weapons)
 * Exploration
+  * Astronomer (Catalog)
+    * Giant Space Telescopes/Observatories
   * Cartography (Catalog)
   * Colonization (Survival)
   * Route Mapping (Catalog)
-* Farming
+* Nature
+  * Biologist (Catalog)
+    * Studying/Documenting newly discovered creatures
+    * Different genetic coding structures
+    * Life that doesn't use DNA
+    * Silicon-based organisms
+  * Farming
+  * Naturalist
+    * Ark-like megastructure?
+    * Micro-habitats
+    * Preserving life
+    * Rehabilitation
+  * Trainer
+    * Riding creatures
+    * Tasks
+
+
 * Government (Real-Time Strategy)
-* Law Enforcement (Min-Max, Multiplayer, Shooter, Quests)
-* Manufacturing (Crafting)
-  * Design (Community Content)
-  * Engines
-  * Starships
-  * Warp Drives
-  * Weapons
 * Medicine
-* Mining (Grind)
 * Rescue (Quests)
-* Security
 * Trading (Min-Max)
 
 ## Unofficial
