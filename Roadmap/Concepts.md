@@ -21,4 +21,7 @@ Add concepts like:
   * Atmospheric effects
 * Ring and belt systems
 * Stellar wind
-* 
+
+## Technology
+### Wormholes
+To create a wormhole, you need to start with a black hole. You also need a negative energy device (dark matter). Need to figure out how to link black holes for a wormhole. The negative energy device sustains the wormhole. Bigger black holes required for longer distances. Multiple exits for one entrance?
