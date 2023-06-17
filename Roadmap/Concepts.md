@@ -17,6 +17,7 @@ Add concepts like:
   * Orbital resonance
   * Tidal locking
   * Tidal heating
+  * Lithospheric effects
   * Hydrospheric effects
   * Atmospheric effects
 * Ring and belt systems
