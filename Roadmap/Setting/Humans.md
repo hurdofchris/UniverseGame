@@ -6,4 +6,5 @@ They've also discovered a way to clone organisms very precisely. In doing so the
 
 However, there is heavy debate as to whether immortalizing oneself through cloning is a violation of the laws of nature. A lot of religious groups have taken a stand against it saying that it is a defiance of God.
 
+*Instead of this, use alternate monetary system? Money doesn't exist? Jobs provide some other value to the worker?*
 In addition, the cost of cloning and entanglement make it inaccessible to those with low income, so there is the moral question of only allowing higher income people to essentially live forever should they choose. Insurance companies won't cover the cost because they are not allowed to discriminate who they pay for. On one hand, allowing someone to live forever would allow them to profit more from premiums. On the other hand, someone who requires a lot of coverage due to genetic conditions could cost the insurance company a lot of money... forever. The risk for insurance is too high to justify the cost.
