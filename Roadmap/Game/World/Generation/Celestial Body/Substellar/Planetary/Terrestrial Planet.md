@@ -17,3 +17,11 @@
 ## Subterrain
 
 ## Volcanism
+
+## Generation
+
+* Tectonic Plates
+* Mountain Ranges
+* Large Scale Erosion (Rivers, Lakes, Glaciers)
+* 
+
