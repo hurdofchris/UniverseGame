@@ -1,6 +1,6 @@
 # Concepts
 
-## Rotating Detonation Aerospike Engine
+##Rotating Detonation Aerospike Engine
 Combines concepts from:
 
 https://en.wikipedia.org/wiki/Rotating_detonation_engine
